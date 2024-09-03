@@ -1,0 +1,176 @@
+{
+    "crews": [
+        {
+            "id": 1,
+            "start": 7,
+            "end": 15,
+            "morning": 1,
+            "afternoon": 0,
+            "evening": 1,
+            "night": 0,
+            "maxWork": 8,
+            "assigned": false
+        },
+        {
+            "id": 2,
+            "start": 4,
+            "end": 16,
+            "morning": 1,
+            "afternoon": 0,
+            "evening": 0,
+            "night": 0,
+            "maxWork": 8,
+            "assigned": false
+        },
+        {
+            "id": 3,
+            "start": 15,
+            "end": 19,
+            "morning": 1,
+            "afternoon": 1,
+            "evening": 1,
+            "night": 1,
+            "maxWork": 8,
+            "assigned": false
+        },
+        {
+            "id": 4,
+            "start": 12,
+            "end": 17,
+            "morning": 1,
+            "afternoon": 1,
+            "evening": 0,
+            "night": 1,
+            "maxWork": 8,
+            "assigned": false
+        },
+        {
+            "id": 5,
+            "start": 7,
+            "end": 17,
+            "morning": 0,
+            "afternoon": 0,
+            "evening": 0,
+            "night": 1,
+            "maxWork": 8,
+            "assigned": false
+        }
+    ],
+    "buses": [
+        {
+            "id": "B1",
+            "morning": {
+                "shift_start": 9,
+                "shift_end": 11,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 15,
+                "shift_end": 17,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 21,
+                "shift_end": 24,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 3,
+                "shift_end": 5,
+                "crew": null
+            }
+        },
+        {
+            "id": "B2",
+            "morning": {
+                "shift_start": 7,
+                "shift_end": 12,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 12,
+                "shift_end": 18,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 19,
+                "shift_end": 23,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 1,
+                "shift_end": 4,
+                "crew": null
+            }
+        },
+        {
+            "id": "B3",
+            "morning": {
+                "shift_start": 7,
+                "shift_end": 12,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 15,
+                "shift_end": 16,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 18,
+                "shift_end": 22,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 3,
+                "shift_end": 5,
+                "crew": null
+            }
+        },
+        {
+            "id": "B4",
+            "morning": {
+                "shift_start": 8,
+                "shift_end": 12,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 15,
+                "shift_end": 17,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 19,
+                "shift_end": 23,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 3,
+                "shift_end": 4,
+                "crew": null
+            }
+        },
+        {
+            "id": "B5",
+            "morning": {
+                "shift_start": 9,
+                "shift_end": 10,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 13,
+                "shift_end": 17,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 19,
+                "shift_end": 24,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 1,
+                "shift_end": 5,
+                "crew": null
+            }
+        }
+    ]
+}

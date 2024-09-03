@@ -1,0 +1,3406 @@
+{
+    "crews": [
+        {
+            "id": 1,
+            "start": 17,
+            "end": 20,
+            "morning": 1,
+            "afternoon": 0,
+            "evening": 1,
+            "night": 0,
+            "maxWork": 6,
+            "assigned": false
+        },
+        {
+            "id": 2,
+            "start": 2,
+            "end": 6,
+            "morning": 0,
+            "afternoon": 0,
+            "evening": 0,
+            "night": 0,
+            "maxWork": 8,
+            "assigned": false
+        },
+        {
+            "id": 3,
+            "start": 13,
+            "end": 18,
+            "morning": 1,
+            "afternoon": 0,
+            "evening": 0,
+            "night": 1,
+            "maxWork": 6,
+            "assigned": false
+        },
+        {
+            "id": 4,
+            "start": 6,
+            "end": 14,
+            "morning": 0,
+            "afternoon": 0,
+            "evening": 0,
+            "night": 0,
+            "maxWork": 7,
+            "assigned": false
+        },
+        {
+            "id": 5,
+            "start": 11,
+            "end": 18,
+            "morning": 1,
+            "afternoon": 1,
+            "evening": 1,
+            "night": 1,
+            "maxWork": 6,
+            "assigned": false
+        },
+        {
+            "id": 6,
+            "start": 12,
+            "end": 23,
+            "morning": 1,
+            "afternoon": 0,
+            "evening": 0,
+            "night": 1,
+            "maxWork": 7,
+            "assigned": false
+        },
+        {
+            "id": 7,
+            "start": 14,
+            "end": 20,
+            "morning": 0,
+            "afternoon": 0,
+            "evening": 1,
+            "night": 1,
+            "maxWork": 8,
+            "assigned": false
+        },
+        {
+            "id": 8,
+            "start": 14,
+            "end": 15,
+            "morning": 0,
+            "afternoon": 0,
+            "evening": 1,
+            "night": 1,
+            "maxWork": 8,
+            "assigned": false
+        },
+        {
+            "id": 9,
+            "start": 12,
+            "end": 15,
+            "morning": 0,
+            "afternoon": 0,
+            "evening": 1,
+            "night": 0,
+            "maxWork": 6,
+            "assigned": false
+        },
+        {
+            "id": 10,
+            "start": 6,
+            "end": 12,
+            "morning": 0,
+            "afternoon": 1,
+            "evening": 0,
+            "night": 0,
+            "maxWork": 6,
+            "assigned": false
+        },
+        {
+            "id": 11,
+            "start": 9,
+            "end": 22,
+            "morning": 1,
+            "afternoon": 1,
+            "evening": 0,
+            "night": 0,
+            "maxWork": 7,
+            "assigned": false
+        },
+        {
+            "id": 12,
+            "start": 1,
+            "end": 6,
+            "morning": 1,
+            "afternoon": 0,
+            "evening": 1,
+            "night": 1,
+            "maxWork": 5,
+            "assigned": false
+        },
+        {
+            "id": 13,
+            "start": 9,
+            "end": 20,
+            "morning": 0,
+            "afternoon": 1,
+            "evening": 0,
+            "night": 0,
+            "maxWork": 4,
+            "assigned": false
+        },
+        {
+            "id": 14,
+            "start": 19,
+            "end": 22,
+            "morning": 1,
+            "afternoon": 0,
+            "evening": 0,
+            "night": 0,
+            "maxWork": 6,
+            "assigned": false
+        },
+        {
+            "id": 15,
+            "start": 9,
+            "end": 20,
+            "morning": 0,
+            "afternoon": 1,
+            "evening": 1,
+            "night": 0,
+            "maxWork": 4,
+            "assigned": false
+        },
+        {
+            "id": 16,
+            "start": 2,
+            "end": 17,
+            "morning": 0,
+            "afternoon": 0,
+            "evening": 1,
+            "night": 0,
+            "maxWork": 4,
+            "assigned": false
+        },
+        {
+            "id": 17,
+            "start": 4,
+            "end": 12,
+            "morning": 0,
+            "afternoon": 1,
+            "evening": 0,
+            "night": 1,
+            "maxWork": 4,
+            "assigned": false
+        },
+        {
+            "id": 18,
+            "start": 17,
+            "end": 20,
+            "morning": 0,
+            "afternoon": 1,
+            "evening": 0,
+            "night": 1,
+            "maxWork": 8,
+            "assigned": false
+        },
+        {
+            "id": 19,
+            "start": 7,
+            "end": 23,
+            "morning": 1,
+            "afternoon": 1,
+            "evening": 1,
+            "night": 0,
+            "maxWork": 5,
+            "assigned": false
+        },
+        {
+            "id": 20,
+            "start": 20,
+            "end": 24,
+            "morning": 0,
+            "afternoon": 0,
+            "evening": 1,
+            "night": 0,
+            "maxWork": 8,
+            "assigned": false
+        },
+        {
+            "id": 21,
+            "start": 10,
+            "end": 24,
+            "morning": 1,
+            "afternoon": 1,
+            "evening": 0,
+            "night": 1,
+            "maxWork": 8,
+            "assigned": false
+        },
+        {
+            "id": 22,
+            "start": 9,
+            "end": 18,
+            "morning": 1,
+            "afternoon": 0,
+            "evening": 1,
+            "night": 1,
+            "maxWork": 4,
+            "assigned": false
+        },
+        {
+            "id": 23,
+            "start": 12,
+            "end": 16,
+            "morning": 1,
+            "afternoon": 0,
+            "evening": 0,
+            "night": 1,
+            "maxWork": 5,
+            "assigned": false
+        },
+        {
+            "id": 24,
+            "start": 15,
+            "end": 21,
+            "morning": 0,
+            "afternoon": 0,
+            "evening": 1,
+            "night": 0,
+            "maxWork": 6,
+            "assigned": false
+        },
+        {
+            "id": 25,
+            "start": 11,
+            "end": 22,
+            "morning": 0,
+            "afternoon": 1,
+            "evening": 0,
+            "night": 1,
+            "maxWork": 7,
+            "assigned": false
+        },
+        {
+            "id": 26,
+            "start": 19,
+            "end": 20,
+            "morning": 1,
+            "afternoon": 0,
+            "evening": 0,
+            "night": 1,
+            "maxWork": 5,
+            "assigned": false
+        },
+        {
+            "id": 27,
+            "start": 16,
+            "end": 18,
+            "morning": 1,
+            "afternoon": 0,
+            "evening": 0,
+            "night": 1,
+            "maxWork": 7,
+            "assigned": false
+        },
+        {
+            "id": 28,
+            "start": 3,
+            "end": 24,
+            "morning": 1,
+            "afternoon": 1,
+            "evening": 1,
+            "night": 0,
+            "maxWork": 8,
+            "assigned": false
+        },
+        {
+            "id": 29,
+            "start": 11,
+            "end": 18,
+            "morning": 1,
+            "afternoon": 1,
+            "evening": 0,
+            "night": 1,
+            "maxWork": 4,
+            "assigned": false
+        },
+        {
+            "id": 30,
+            "start": 2,
+            "end": 11,
+            "morning": 0,
+            "afternoon": 0,
+            "evening": 1,
+            "night": 0,
+            "maxWork": 5,
+            "assigned": false
+        },
+        {
+            "id": 31,
+            "start": 4,
+            "end": 8,
+            "morning": 0,
+            "afternoon": 1,
+            "evening": 1,
+            "night": 0,
+            "maxWork": 4,
+            "assigned": false
+        },
+        {
+            "id": 32,
+            "start": 15,
+            "end": 16,
+            "morning": 0,
+            "afternoon": 1,
+            "evening": 1,
+            "night": 1,
+            "maxWork": 4,
+            "assigned": false
+        },
+        {
+            "id": 33,
+            "start": 12,
+            "end": 23,
+            "morning": 0,
+            "afternoon": 1,
+            "evening": 1,
+            "night": 1,
+            "maxWork": 8,
+            "assigned": false
+        },
+        {
+            "id": 34,
+            "start": 20,
+            "end": 23,
+            "morning": 0,
+            "afternoon": 1,
+            "evening": 1,
+            "night": 0,
+            "maxWork": 8,
+            "assigned": false
+        },
+        {
+            "id": 35,
+            "start": 17,
+            "end": 18,
+            "morning": 0,
+            "afternoon": 1,
+            "evening": 0,
+            "night": 0,
+            "maxWork": 7,
+            "assigned": false
+        },
+        {
+            "id": 36,
+            "start": 3,
+            "end": 11,
+            "morning": 0,
+            "afternoon": 0,
+            "evening": 1,
+            "night": 1,
+            "maxWork": 8,
+            "assigned": false
+        },
+        {
+            "id": 37,
+            "start": 14,
+            "end": 17,
+            "morning": 1,
+            "afternoon": 0,
+            "evening": 0,
+            "night": 0,
+            "maxWork": 4,
+            "assigned": false
+        },
+        {
+            "id": 38,
+            "start": 18,
+            "end": 21,
+            "morning": 1,
+            "afternoon": 0,
+            "evening": 1,
+            "night": 1,
+            "maxWork": 6,
+            "assigned": false
+        },
+        {
+            "id": 39,
+            "start": 20,
+            "end": 23,
+            "morning": 0,
+            "afternoon": 1,
+            "evening": 0,
+            "night": 1,
+            "maxWork": 7,
+            "assigned": false
+        },
+        {
+            "id": 40,
+            "start": 4,
+            "end": 14,
+            "morning": 1,
+            "afternoon": 0,
+            "evening": 0,
+            "night": 0,
+            "maxWork": 7,
+            "assigned": false
+        },
+        {
+            "id": 41,
+            "start": 18,
+            "end": 23,
+            "morning": 0,
+            "afternoon": 0,
+            "evening": 1,
+            "night": 0,
+            "maxWork": 4,
+            "assigned": false
+        },
+        {
+            "id": 42,
+            "start": 0,
+            "end": 3,
+            "morning": 0,
+            "afternoon": 1,
+            "evening": 1,
+            "night": 1,
+            "maxWork": 4,
+            "assigned": false
+        },
+        {
+            "id": 43,
+            "start": 14,
+            "end": 19,
+            "morning": 0,
+            "afternoon": 1,
+            "evening": 0,
+            "night": 0,
+            "maxWork": 4,
+            "assigned": false
+        },
+        {
+            "id": 44,
+            "start": 5,
+            "end": 9,
+            "morning": 1,
+            "afternoon": 1,
+            "evening": 0,
+            "night": 1,
+            "maxWork": 4,
+            "assigned": false
+        },
+        {
+            "id": 45,
+            "start": 11,
+            "end": 23,
+            "morning": 1,
+            "afternoon": 1,
+            "evening": 0,
+            "night": 0,
+            "maxWork": 6,
+            "assigned": false
+        },
+        {
+            "id": 46,
+            "start": 14,
+            "end": 17,
+            "morning": 0,
+            "afternoon": 1,
+            "evening": 0,
+            "night": 1,
+            "maxWork": 4,
+            "assigned": false
+        },
+        {
+            "id": 47,
+            "start": 5,
+            "end": 13,
+            "morning": 0,
+            "afternoon": 0,
+            "evening": 1,
+            "night": 0,
+            "maxWork": 8,
+            "assigned": false
+        },
+        {
+            "id": 48,
+            "start": 7,
+            "end": 16,
+            "morning": 1,
+            "afternoon": 0,
+            "evening": 0,
+            "night": 1,
+            "maxWork": 7,
+            "assigned": false
+        },
+        {
+            "id": 49,
+            "start": 14,
+            "end": 24,
+            "morning": 0,
+            "afternoon": 1,
+            "evening": 0,
+            "night": 0,
+            "maxWork": 7,
+            "assigned": false
+        },
+        {
+            "id": 50,
+            "start": 3,
+            "end": 18,
+            "morning": 0,
+            "afternoon": 1,
+            "evening": 0,
+            "night": 0,
+            "maxWork": 7,
+            "assigned": false
+        },
+        {
+            "id": 51,
+            "start": 19,
+            "end": 23,
+            "morning": 0,
+            "afternoon": 0,
+            "evening": 1,
+            "night": 1,
+            "maxWork": 7,
+            "assigned": false
+        },
+        {
+            "id": 52,
+            "start": 7,
+            "end": 23,
+            "morning": 1,
+            "afternoon": 1,
+            "evening": 1,
+            "night": 1,
+            "maxWork": 5,
+            "assigned": false
+        },
+        {
+            "id": 53,
+            "start": 4,
+            "end": 8,
+            "morning": 1,
+            "afternoon": 1,
+            "evening": 0,
+            "night": 0,
+            "maxWork": 7,
+            "assigned": false
+        },
+        {
+            "id": 54,
+            "start": 5,
+            "end": 16,
+            "morning": 1,
+            "afternoon": 0,
+            "evening": 1,
+            "night": 0,
+            "maxWork": 8,
+            "assigned": false
+        },
+        {
+            "id": 55,
+            "start": 1,
+            "end": 3,
+            "morning": 1,
+            "afternoon": 0,
+            "evening": 0,
+            "night": 0,
+            "maxWork": 8,
+            "assigned": false
+        },
+        {
+            "id": 56,
+            "start": 14,
+            "end": 23,
+            "morning": 0,
+            "afternoon": 0,
+            "evening": 0,
+            "night": 0,
+            "maxWork": 8,
+            "assigned": false
+        },
+        {
+            "id": 57,
+            "start": 20,
+            "end": 24,
+            "morning": 1,
+            "afternoon": 0,
+            "evening": 1,
+            "night": 0,
+            "maxWork": 7,
+            "assigned": false
+        },
+        {
+            "id": 58,
+            "start": 7,
+            "end": 14,
+            "morning": 1,
+            "afternoon": 0,
+            "evening": 1,
+            "night": 0,
+            "maxWork": 7,
+            "assigned": false
+        },
+        {
+            "id": 59,
+            "start": 16,
+            "end": 18,
+            "morning": 1,
+            "afternoon": 1,
+            "evening": 0,
+            "night": 1,
+            "maxWork": 6,
+            "assigned": false
+        },
+        {
+            "id": 60,
+            "start": 0,
+            "end": 19,
+            "morning": 0,
+            "afternoon": 0,
+            "evening": 0,
+            "night": 1,
+            "maxWork": 6,
+            "assigned": false
+        },
+        {
+            "id": 61,
+            "start": 2,
+            "end": 18,
+            "morning": 0,
+            "afternoon": 0,
+            "evening": 0,
+            "night": 1,
+            "maxWork": 8,
+            "assigned": false
+        },
+        {
+            "id": 62,
+            "start": 11,
+            "end": 12,
+            "morning": 0,
+            "afternoon": 0,
+            "evening": 1,
+            "night": 1,
+            "maxWork": 7,
+            "assigned": false
+        },
+        {
+            "id": 63,
+            "start": 12,
+            "end": 21,
+            "morning": 1,
+            "afternoon": 1,
+            "evening": 0,
+            "night": 1,
+            "maxWork": 5,
+            "assigned": false
+        },
+        {
+            "id": 64,
+            "start": 19,
+            "end": 20,
+            "morning": 1,
+            "afternoon": 0,
+            "evening": 0,
+            "night": 1,
+            "maxWork": 4,
+            "assigned": false
+        },
+        {
+            "id": 65,
+            "start": 11,
+            "end": 17,
+            "morning": 0,
+            "afternoon": 0,
+            "evening": 0,
+            "night": 0,
+            "maxWork": 5,
+            "assigned": false
+        },
+        {
+            "id": 66,
+            "start": 12,
+            "end": 23,
+            "morning": 0,
+            "afternoon": 0,
+            "evening": 1,
+            "night": 1,
+            "maxWork": 7,
+            "assigned": false
+        },
+        {
+            "id": 67,
+            "start": 10,
+            "end": 15,
+            "morning": 1,
+            "afternoon": 0,
+            "evening": 1,
+            "night": 0,
+            "maxWork": 8,
+            "assigned": false
+        },
+        {
+            "id": 68,
+            "start": 3,
+            "end": 7,
+            "morning": 0,
+            "afternoon": 1,
+            "evening": 1,
+            "night": 1,
+            "maxWork": 5,
+            "assigned": false
+        },
+        {
+            "id": 69,
+            "start": 1,
+            "end": 12,
+            "morning": 0,
+            "afternoon": 1,
+            "evening": 1,
+            "night": 0,
+            "maxWork": 6,
+            "assigned": false
+        },
+        {
+            "id": 70,
+            "start": 10,
+            "end": 15,
+            "morning": 1,
+            "afternoon": 1,
+            "evening": 0,
+            "night": 1,
+            "maxWork": 7,
+            "assigned": false
+        },
+        {
+            "id": 71,
+            "start": 5,
+            "end": 16,
+            "morning": 1,
+            "afternoon": 1,
+            "evening": 0,
+            "night": 1,
+            "maxWork": 4,
+            "assigned": false
+        },
+        {
+            "id": 72,
+            "start": 6,
+            "end": 8,
+            "morning": 0,
+            "afternoon": 0,
+            "evening": 1,
+            "night": 1,
+            "maxWork": 7,
+            "assigned": false
+        },
+        {
+            "id": 73,
+            "start": 6,
+            "end": 23,
+            "morning": 0,
+            "afternoon": 0,
+            "evening": 1,
+            "night": 1,
+            "maxWork": 6,
+            "assigned": false
+        },
+        {
+            "id": 74,
+            "start": 2,
+            "end": 11,
+            "morning": 1,
+            "afternoon": 0,
+            "evening": 0,
+            "night": 1,
+            "maxWork": 7,
+            "assigned": false
+        },
+        {
+            "id": 75,
+            "start": 20,
+            "end": 21,
+            "morning": 1,
+            "afternoon": 0,
+            "evening": 1,
+            "night": 1,
+            "maxWork": 4,
+            "assigned": false
+        },
+        {
+            "id": 76,
+            "start": 10,
+            "end": 17,
+            "morning": 1,
+            "afternoon": 1,
+            "evening": 1,
+            "night": 1,
+            "maxWork": 5,
+            "assigned": false
+        },
+        {
+            "id": 77,
+            "start": 9,
+            "end": 23,
+            "morning": 1,
+            "afternoon": 0,
+            "evening": 1,
+            "night": 1,
+            "maxWork": 7,
+            "assigned": false
+        },
+        {
+            "id": 78,
+            "start": 10,
+            "end": 21,
+            "morning": 1,
+            "afternoon": 1,
+            "evening": 0,
+            "night": 1,
+            "maxWork": 5,
+            "assigned": false
+        },
+        {
+            "id": 79,
+            "start": 19,
+            "end": 20,
+            "morning": 1,
+            "afternoon": 0,
+            "evening": 1,
+            "night": 1,
+            "maxWork": 7,
+            "assigned": false
+        },
+        {
+            "id": 80,
+            "start": 8,
+            "end": 12,
+            "morning": 0,
+            "afternoon": 1,
+            "evening": 1,
+            "night": 0,
+            "maxWork": 5,
+            "assigned": false
+        },
+        {
+            "id": 81,
+            "start": 16,
+            "end": 20,
+            "morning": 0,
+            "afternoon": 0,
+            "evening": 1,
+            "night": 0,
+            "maxWork": 5,
+            "assigned": false
+        },
+        {
+            "id": 82,
+            "start": 8,
+            "end": 22,
+            "morning": 0,
+            "afternoon": 0,
+            "evening": 0,
+            "night": 1,
+            "maxWork": 6,
+            "assigned": false
+        },
+        {
+            "id": 83,
+            "start": 17,
+            "end": 20,
+            "morning": 0,
+            "afternoon": 0,
+            "evening": 1,
+            "night": 0,
+            "maxWork": 5,
+            "assigned": false
+        },
+        {
+            "id": 84,
+            "start": 1,
+            "end": 6,
+            "morning": 0,
+            "afternoon": 0,
+            "evening": 1,
+            "night": 0,
+            "maxWork": 5,
+            "assigned": false
+        },
+        {
+            "id": 85,
+            "start": 15,
+            "end": 21,
+            "morning": 0,
+            "afternoon": 0,
+            "evening": 0,
+            "night": 0,
+            "maxWork": 5,
+            "assigned": false
+        },
+        {
+            "id": 86,
+            "start": 17,
+            "end": 21,
+            "morning": 0,
+            "afternoon": 1,
+            "evening": 0,
+            "night": 1,
+            "maxWork": 4,
+            "assigned": false
+        },
+        {
+            "id": 87,
+            "start": 18,
+            "end": 20,
+            "morning": 0,
+            "afternoon": 0,
+            "evening": 0,
+            "night": 1,
+            "maxWork": 7,
+            "assigned": false
+        },
+        {
+            "id": 88,
+            "start": 16,
+            "end": 23,
+            "morning": 0,
+            "afternoon": 1,
+            "evening": 0,
+            "night": 0,
+            "maxWork": 8,
+            "assigned": false
+        },
+        {
+            "id": 89,
+            "start": 5,
+            "end": 18,
+            "morning": 1,
+            "afternoon": 1,
+            "evening": 0,
+            "night": 0,
+            "maxWork": 5,
+            "assigned": false
+        },
+        {
+            "id": 90,
+            "start": 12,
+            "end": 24,
+            "morning": 0,
+            "afternoon": 0,
+            "evening": 1,
+            "night": 1,
+            "maxWork": 7,
+            "assigned": false
+        },
+        {
+            "id": 91,
+            "start": 19,
+            "end": 24,
+            "morning": 0,
+            "afternoon": 1,
+            "evening": 0,
+            "night": 0,
+            "maxWork": 5,
+            "assigned": false
+        },
+        {
+            "id": 92,
+            "start": 16,
+            "end": 19,
+            "morning": 0,
+            "afternoon": 0,
+            "evening": 1,
+            "night": 0,
+            "maxWork": 7,
+            "assigned": false
+        },
+        {
+            "id": 93,
+            "start": 5,
+            "end": 23,
+            "morning": 1,
+            "afternoon": 0,
+            "evening": 0,
+            "night": 1,
+            "maxWork": 4,
+            "assigned": false
+        },
+        {
+            "id": 94,
+            "start": 19,
+            "end": 24,
+            "morning": 1,
+            "afternoon": 0,
+            "evening": 0,
+            "night": 1,
+            "maxWork": 4,
+            "assigned": false
+        },
+        {
+            "id": 95,
+            "start": 11,
+            "end": 24,
+            "morning": 1,
+            "afternoon": 0,
+            "evening": 0,
+            "night": 0,
+            "maxWork": 5,
+            "assigned": false
+        },
+        {
+            "id": 96,
+            "start": 5,
+            "end": 12,
+            "morning": 1,
+            "afternoon": 0,
+            "evening": 0,
+            "night": 0,
+            "maxWork": 5,
+            "assigned": false
+        },
+        {
+            "id": 97,
+            "start": 19,
+            "end": 24,
+            "morning": 0,
+            "afternoon": 0,
+            "evening": 0,
+            "night": 1,
+            "maxWork": 4,
+            "assigned": false
+        },
+        {
+            "id": 98,
+            "start": 18,
+            "end": 22,
+            "morning": 0,
+            "afternoon": 1,
+            "evening": 0,
+            "night": 1,
+            "maxWork": 4,
+            "assigned": false
+        },
+        {
+            "id": 99,
+            "start": 5,
+            "end": 7,
+            "morning": 1,
+            "afternoon": 0,
+            "evening": 1,
+            "night": 1,
+            "maxWork": 7,
+            "assigned": false
+        },
+        {
+            "id": 100,
+            "start": 6,
+            "end": 20,
+            "morning": 0,
+            "afternoon": 1,
+            "evening": 1,
+            "night": 0,
+            "maxWork": 4,
+            "assigned": false
+        }
+    ],
+    "buses": [
+        {
+            "id": "B1",
+            "morning": {
+                "shift_start": 8,
+                "shift_end": 10,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 12,
+                "shift_end": 16,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 19,
+                "shift_end": 22,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 1,
+                "shift_end": 6,
+                "crew": null
+            }
+        },
+        {
+            "id": "B2",
+            "morning": {
+                "shift_start": 9,
+                "shift_end": 11,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 14,
+                "shift_end": 18,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 20,
+                "shift_end": 24,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 1,
+                "shift_end": 4,
+                "crew": null
+            }
+        },
+        {
+            "id": "B3",
+            "morning": {
+                "shift_start": 7,
+                "shift_end": 10,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 14,
+                "shift_end": 16,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 18,
+                "shift_end": 24,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 1,
+                "shift_end": 6,
+                "crew": null
+            }
+        },
+        {
+            "id": "B4",
+            "morning": {
+                "shift_start": 9,
+                "shift_end": 12,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 13,
+                "shift_end": 18,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 18,
+                "shift_end": 23,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 2,
+                "shift_end": 6,
+                "crew": null
+            }
+        },
+        {
+            "id": "B5",
+            "morning": {
+                "shift_start": 9,
+                "shift_end": 12,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 12,
+                "shift_end": 17,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 18,
+                "shift_end": 23,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 1,
+                "shift_end": 5,
+                "crew": null
+            }
+        },
+        {
+            "id": "B6",
+            "morning": {
+                "shift_start": 7,
+                "shift_end": 10,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 15,
+                "shift_end": 17,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 18,
+                "shift_end": 22,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 2,
+                "shift_end": 4,
+                "crew": null
+            }
+        },
+        {
+            "id": "B7",
+            "morning": {
+                "shift_start": 9,
+                "shift_end": 12,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 13,
+                "shift_end": 17,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 20,
+                "shift_end": 23,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 1,
+                "shift_end": 6,
+                "crew": null
+            }
+        },
+        {
+            "id": "B8",
+            "morning": {
+                "shift_start": 6,
+                "shift_end": 11,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 13,
+                "shift_end": 18,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 18,
+                "shift_end": 23,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 1,
+                "shift_end": 4,
+                "crew": null
+            }
+        },
+        {
+            "id": "B9",
+            "morning": {
+                "shift_start": 9,
+                "shift_end": 11,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 13,
+                "shift_end": 16,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 19,
+                "shift_end": 24,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 1,
+                "shift_end": 4,
+                "crew": null
+            }
+        },
+        {
+            "id": "B10",
+            "morning": {
+                "shift_start": 9,
+                "shift_end": 11,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 14,
+                "shift_end": 16,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 21,
+                "shift_end": 22,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 2,
+                "shift_end": 5,
+                "crew": null
+            }
+        },
+        {
+            "id": "B11",
+            "morning": {
+                "shift_start": 6,
+                "shift_end": 10,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 14,
+                "shift_end": 17,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 20,
+                "shift_end": 22,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 1,
+                "shift_end": 6,
+                "crew": null
+            }
+        },
+        {
+            "id": "B12",
+            "morning": {
+                "shift_start": 6,
+                "shift_end": 10,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 14,
+                "shift_end": 16,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 20,
+                "shift_end": 23,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 1,
+                "shift_end": 5,
+                "crew": null
+            }
+        },
+        {
+            "id": "B13",
+            "morning": {
+                "shift_start": 9,
+                "shift_end": 12,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 12,
+                "shift_end": 18,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 18,
+                "shift_end": 22,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 2,
+                "shift_end": 6,
+                "crew": null
+            }
+        },
+        {
+            "id": "B14",
+            "morning": {
+                "shift_start": 7,
+                "shift_end": 11,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 15,
+                "shift_end": 16,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 18,
+                "shift_end": 22,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 3,
+                "shift_end": 4,
+                "crew": null
+            }
+        },
+        {
+            "id": "B15",
+            "morning": {
+                "shift_start": 9,
+                "shift_end": 11,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 14,
+                "shift_end": 16,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 19,
+                "shift_end": 24,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 1,
+                "shift_end": 6,
+                "crew": null
+            }
+        },
+        {
+            "id": "B16",
+            "morning": {
+                "shift_start": 9,
+                "shift_end": 10,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 13,
+                "shift_end": 16,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 21,
+                "shift_end": 23,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 1,
+                "shift_end": 6,
+                "crew": null
+            }
+        },
+        {
+            "id": "B17",
+            "morning": {
+                "shift_start": 8,
+                "shift_end": 12,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 13,
+                "shift_end": 16,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 19,
+                "shift_end": 22,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 3,
+                "shift_end": 4,
+                "crew": null
+            }
+        },
+        {
+            "id": "B18",
+            "morning": {
+                "shift_start": 9,
+                "shift_end": 12,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 15,
+                "shift_end": 18,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 18,
+                "shift_end": 22,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 3,
+                "shift_end": 4,
+                "crew": null
+            }
+        },
+        {
+            "id": "B19",
+            "morning": {
+                "shift_start": 6,
+                "shift_end": 12,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 15,
+                "shift_end": 18,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 18,
+                "shift_end": 24,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 3,
+                "shift_end": 4,
+                "crew": null
+            }
+        },
+        {
+            "id": "B20",
+            "morning": {
+                "shift_start": 7,
+                "shift_end": 10,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 12,
+                "shift_end": 16,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 18,
+                "shift_end": 23,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 0,
+                "shift_end": 5,
+                "crew": null
+            }
+        },
+        {
+            "id": "B21",
+            "morning": {
+                "shift_start": 7,
+                "shift_end": 10,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 13,
+                "shift_end": 18,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 20,
+                "shift_end": 22,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 3,
+                "shift_end": 4,
+                "crew": null
+            }
+        },
+        {
+            "id": "B22",
+            "morning": {
+                "shift_start": 7,
+                "shift_end": 12,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 14,
+                "shift_end": 18,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 18,
+                "shift_end": 23,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 0,
+                "shift_end": 5,
+                "crew": null
+            }
+        },
+        {
+            "id": "B23",
+            "morning": {
+                "shift_start": 7,
+                "shift_end": 10,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 14,
+                "shift_end": 16,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 20,
+                "shift_end": 23,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 0,
+                "shift_end": 5,
+                "crew": null
+            }
+        },
+        {
+            "id": "B24",
+            "morning": {
+                "shift_start": 8,
+                "shift_end": 11,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 13,
+                "shift_end": 16,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 18,
+                "shift_end": 22,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 1,
+                "shift_end": 4,
+                "crew": null
+            }
+        },
+        {
+            "id": "B25",
+            "morning": {
+                "shift_start": 8,
+                "shift_end": 10,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 15,
+                "shift_end": 16,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 18,
+                "shift_end": 24,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 3,
+                "shift_end": 5,
+                "crew": null
+            }
+        },
+        {
+            "id": "B26",
+            "morning": {
+                "shift_start": 8,
+                "shift_end": 10,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 14,
+                "shift_end": 17,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 21,
+                "shift_end": 23,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 3,
+                "shift_end": 4,
+                "crew": null
+            }
+        },
+        {
+            "id": "B27",
+            "morning": {
+                "shift_start": 9,
+                "shift_end": 10,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 13,
+                "shift_end": 16,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 20,
+                "shift_end": 22,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 1,
+                "shift_end": 4,
+                "crew": null
+            }
+        },
+        {
+            "id": "B28",
+            "morning": {
+                "shift_start": 8,
+                "shift_end": 12,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 13,
+                "shift_end": 17,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 20,
+                "shift_end": 22,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 2,
+                "shift_end": 4,
+                "crew": null
+            }
+        },
+        {
+            "id": "B29",
+            "morning": {
+                "shift_start": 8,
+                "shift_end": 10,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 15,
+                "shift_end": 17,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 19,
+                "shift_end": 23,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 1,
+                "shift_end": 6,
+                "crew": null
+            }
+        },
+        {
+            "id": "B30",
+            "morning": {
+                "shift_start": 6,
+                "shift_end": 11,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 13,
+                "shift_end": 16,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 18,
+                "shift_end": 24,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 3,
+                "shift_end": 5,
+                "crew": null
+            }
+        },
+        {
+            "id": "B31",
+            "morning": {
+                "shift_start": 8,
+                "shift_end": 11,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 15,
+                "shift_end": 17,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 21,
+                "shift_end": 23,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 0,
+                "shift_end": 4,
+                "crew": null
+            }
+        },
+        {
+            "id": "B32",
+            "morning": {
+                "shift_start": 8,
+                "shift_end": 12,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 14,
+                "shift_end": 16,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 21,
+                "shift_end": 24,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 0,
+                "shift_end": 4,
+                "crew": null
+            }
+        },
+        {
+            "id": "B33",
+            "morning": {
+                "shift_start": 6,
+                "shift_end": 11,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 15,
+                "shift_end": 18,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 19,
+                "shift_end": 23,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 2,
+                "shift_end": 5,
+                "crew": null
+            }
+        },
+        {
+            "id": "B34",
+            "morning": {
+                "shift_start": 6,
+                "shift_end": 11,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 13,
+                "shift_end": 17,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 18,
+                "shift_end": 22,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 1,
+                "shift_end": 6,
+                "crew": null
+            }
+        },
+        {
+            "id": "B35",
+            "morning": {
+                "shift_start": 7,
+                "shift_end": 10,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 12,
+                "shift_end": 16,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 20,
+                "shift_end": 23,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 0,
+                "shift_end": 4,
+                "crew": null
+            }
+        },
+        {
+            "id": "B36",
+            "morning": {
+                "shift_start": 7,
+                "shift_end": 10,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 14,
+                "shift_end": 18,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 19,
+                "shift_end": 23,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 3,
+                "shift_end": 4,
+                "crew": null
+            }
+        },
+        {
+            "id": "B37",
+            "morning": {
+                "shift_start": 8,
+                "shift_end": 10,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 12,
+                "shift_end": 18,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 21,
+                "shift_end": 24,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 2,
+                "shift_end": 6,
+                "crew": null
+            }
+        },
+        {
+            "id": "B38",
+            "morning": {
+                "shift_start": 6,
+                "shift_end": 10,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 15,
+                "shift_end": 17,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 20,
+                "shift_end": 24,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 0,
+                "shift_end": 4,
+                "crew": null
+            }
+        },
+        {
+            "id": "B39",
+            "morning": {
+                "shift_start": 9,
+                "shift_end": 11,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 15,
+                "shift_end": 17,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 20,
+                "shift_end": 23,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 2,
+                "shift_end": 4,
+                "crew": null
+            }
+        },
+        {
+            "id": "B40",
+            "morning": {
+                "shift_start": 9,
+                "shift_end": 10,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 14,
+                "shift_end": 16,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 18,
+                "shift_end": 24,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 0,
+                "shift_end": 5,
+                "crew": null
+            }
+        },
+        {
+            "id": "B41",
+            "morning": {
+                "shift_start": 8,
+                "shift_end": 11,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 12,
+                "shift_end": 17,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 21,
+                "shift_end": 22,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 0,
+                "shift_end": 6,
+                "crew": null
+            }
+        },
+        {
+            "id": "B42",
+            "morning": {
+                "shift_start": 9,
+                "shift_end": 10,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 15,
+                "shift_end": 17,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 20,
+                "shift_end": 22,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 1,
+                "shift_end": 4,
+                "crew": null
+            }
+        },
+        {
+            "id": "B43",
+            "morning": {
+                "shift_start": 9,
+                "shift_end": 12,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 12,
+                "shift_end": 16,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 21,
+                "shift_end": 23,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 1,
+                "shift_end": 4,
+                "crew": null
+            }
+        },
+        {
+            "id": "B44",
+            "morning": {
+                "shift_start": 8,
+                "shift_end": 10,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 13,
+                "shift_end": 18,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 18,
+                "shift_end": 23,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 3,
+                "shift_end": 6,
+                "crew": null
+            }
+        },
+        {
+            "id": "B45",
+            "morning": {
+                "shift_start": 8,
+                "shift_end": 11,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 15,
+                "shift_end": 16,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 19,
+                "shift_end": 22,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 0,
+                "shift_end": 6,
+                "crew": null
+            }
+        },
+        {
+            "id": "B46",
+            "morning": {
+                "shift_start": 7,
+                "shift_end": 12,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 14,
+                "shift_end": 18,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 21,
+                "shift_end": 23,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 3,
+                "shift_end": 5,
+                "crew": null
+            }
+        },
+        {
+            "id": "B47",
+            "morning": {
+                "shift_start": 9,
+                "shift_end": 11,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 13,
+                "shift_end": 17,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 18,
+                "shift_end": 24,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 2,
+                "shift_end": 4,
+                "crew": null
+            }
+        },
+        {
+            "id": "B48",
+            "morning": {
+                "shift_start": 8,
+                "shift_end": 11,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 15,
+                "shift_end": 16,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 21,
+                "shift_end": 22,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 3,
+                "shift_end": 5,
+                "crew": null
+            }
+        },
+        {
+            "id": "B49",
+            "morning": {
+                "shift_start": 7,
+                "shift_end": 12,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 14,
+                "shift_end": 17,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 20,
+                "shift_end": 23,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 2,
+                "shift_end": 6,
+                "crew": null
+            }
+        },
+        {
+            "id": "B50",
+            "morning": {
+                "shift_start": 7,
+                "shift_end": 12,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 13,
+                "shift_end": 16,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 18,
+                "shift_end": 23,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 2,
+                "shift_end": 6,
+                "crew": null
+            }
+        },
+        {
+            "id": "B51",
+            "morning": {
+                "shift_start": 7,
+                "shift_end": 12,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 13,
+                "shift_end": 18,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 21,
+                "shift_end": 23,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 1,
+                "shift_end": 5,
+                "crew": null
+            }
+        },
+        {
+            "id": "B52",
+            "morning": {
+                "shift_start": 8,
+                "shift_end": 11,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 12,
+                "shift_end": 17,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 18,
+                "shift_end": 23,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 1,
+                "shift_end": 5,
+                "crew": null
+            }
+        },
+        {
+            "id": "B53",
+            "morning": {
+                "shift_start": 7,
+                "shift_end": 12,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 12,
+                "shift_end": 18,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 20,
+                "shift_end": 24,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 2,
+                "shift_end": 6,
+                "crew": null
+            }
+        },
+        {
+            "id": "B54",
+            "morning": {
+                "shift_start": 7,
+                "shift_end": 10,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 14,
+                "shift_end": 16,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 21,
+                "shift_end": 23,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 2,
+                "shift_end": 4,
+                "crew": null
+            }
+        },
+        {
+            "id": "B55",
+            "morning": {
+                "shift_start": 9,
+                "shift_end": 11,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 14,
+                "shift_end": 18,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 20,
+                "shift_end": 23,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 2,
+                "shift_end": 6,
+                "crew": null
+            }
+        },
+        {
+            "id": "B56",
+            "morning": {
+                "shift_start": 6,
+                "shift_end": 12,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 13,
+                "shift_end": 17,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 20,
+                "shift_end": 24,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 0,
+                "shift_end": 6,
+                "crew": null
+            }
+        },
+        {
+            "id": "B57",
+            "morning": {
+                "shift_start": 7,
+                "shift_end": 11,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 12,
+                "shift_end": 18,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 18,
+                "shift_end": 22,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 2,
+                "shift_end": 6,
+                "crew": null
+            }
+        },
+        {
+            "id": "B58",
+            "morning": {
+                "shift_start": 9,
+                "shift_end": 12,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 15,
+                "shift_end": 17,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 21,
+                "shift_end": 23,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 1,
+                "shift_end": 4,
+                "crew": null
+            }
+        },
+        {
+            "id": "B59",
+            "morning": {
+                "shift_start": 8,
+                "shift_end": 10,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 12,
+                "shift_end": 16,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 21,
+                "shift_end": 24,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 1,
+                "shift_end": 5,
+                "crew": null
+            }
+        },
+        {
+            "id": "B60",
+            "morning": {
+                "shift_start": 9,
+                "shift_end": 10,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 12,
+                "shift_end": 18,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 21,
+                "shift_end": 23,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 0,
+                "shift_end": 5,
+                "crew": null
+            }
+        },
+        {
+            "id": "B61",
+            "morning": {
+                "shift_start": 7,
+                "shift_end": 10,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 12,
+                "shift_end": 18,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 21,
+                "shift_end": 24,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 2,
+                "shift_end": 6,
+                "crew": null
+            }
+        },
+        {
+            "id": "B62",
+            "morning": {
+                "shift_start": 7,
+                "shift_end": 10,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 14,
+                "shift_end": 16,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 20,
+                "shift_end": 24,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 3,
+                "shift_end": 4,
+                "crew": null
+            }
+        },
+        {
+            "id": "B63",
+            "morning": {
+                "shift_start": 6,
+                "shift_end": 12,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 15,
+                "shift_end": 16,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 18,
+                "shift_end": 24,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 3,
+                "shift_end": 5,
+                "crew": null
+            }
+        },
+        {
+            "id": "B64",
+            "morning": {
+                "shift_start": 8,
+                "shift_end": 11,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 13,
+                "shift_end": 16,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 21,
+                "shift_end": 22,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 3,
+                "shift_end": 4,
+                "crew": null
+            }
+        },
+        {
+            "id": "B65",
+            "morning": {
+                "shift_start": 6,
+                "shift_end": 10,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 13,
+                "shift_end": 17,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 20,
+                "shift_end": 22,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 3,
+                "shift_end": 6,
+                "crew": null
+            }
+        },
+        {
+            "id": "B66",
+            "morning": {
+                "shift_start": 8,
+                "shift_end": 12,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 14,
+                "shift_end": 18,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 19,
+                "shift_end": 24,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 2,
+                "shift_end": 4,
+                "crew": null
+            }
+        },
+        {
+            "id": "B67",
+            "morning": {
+                "shift_start": 6,
+                "shift_end": 11,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 15,
+                "shift_end": 18,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 20,
+                "shift_end": 24,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 3,
+                "shift_end": 5,
+                "crew": null
+            }
+        },
+        {
+            "id": "B68",
+            "morning": {
+                "shift_start": 9,
+                "shift_end": 11,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 14,
+                "shift_end": 18,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 18,
+                "shift_end": 22,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 3,
+                "shift_end": 4,
+                "crew": null
+            }
+        },
+        {
+            "id": "B69",
+            "morning": {
+                "shift_start": 7,
+                "shift_end": 12,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 13,
+                "shift_end": 18,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 19,
+                "shift_end": 23,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 0,
+                "shift_end": 6,
+                "crew": null
+            }
+        },
+        {
+            "id": "B70",
+            "morning": {
+                "shift_start": 9,
+                "shift_end": 11,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 14,
+                "shift_end": 16,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 18,
+                "shift_end": 23,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 1,
+                "shift_end": 5,
+                "crew": null
+            }
+        },
+        {
+            "id": "B71",
+            "morning": {
+                "shift_start": 7,
+                "shift_end": 11,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 14,
+                "shift_end": 18,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 20,
+                "shift_end": 24,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 1,
+                "shift_end": 6,
+                "crew": null
+            }
+        },
+        {
+            "id": "B72",
+            "morning": {
+                "shift_start": 7,
+                "shift_end": 12,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 15,
+                "shift_end": 17,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 21,
+                "shift_end": 23,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 3,
+                "shift_end": 4,
+                "crew": null
+            }
+        },
+        {
+            "id": "B73",
+            "morning": {
+                "shift_start": 6,
+                "shift_end": 10,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 13,
+                "shift_end": 17,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 19,
+                "shift_end": 24,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 1,
+                "shift_end": 4,
+                "crew": null
+            }
+        },
+        {
+            "id": "B74",
+            "morning": {
+                "shift_start": 9,
+                "shift_end": 10,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 13,
+                "shift_end": 16,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 21,
+                "shift_end": 23,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 2,
+                "shift_end": 4,
+                "crew": null
+            }
+        },
+        {
+            "id": "B75",
+            "morning": {
+                "shift_start": 8,
+                "shift_end": 12,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 13,
+                "shift_end": 18,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 20,
+                "shift_end": 22,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 0,
+                "shift_end": 6,
+                "crew": null
+            }
+        },
+        {
+            "id": "B76",
+            "morning": {
+                "shift_start": 7,
+                "shift_end": 12,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 13,
+                "shift_end": 18,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 20,
+                "shift_end": 22,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 2,
+                "shift_end": 4,
+                "crew": null
+            }
+        },
+        {
+            "id": "B77",
+            "morning": {
+                "shift_start": 7,
+                "shift_end": 11,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 15,
+                "shift_end": 18,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 20,
+                "shift_end": 22,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 2,
+                "shift_end": 5,
+                "crew": null
+            }
+        },
+        {
+            "id": "B78",
+            "morning": {
+                "shift_start": 9,
+                "shift_end": 10,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 13,
+                "shift_end": 17,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 18,
+                "shift_end": 23,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 1,
+                "shift_end": 5,
+                "crew": null
+            }
+        },
+        {
+            "id": "B79",
+            "morning": {
+                "shift_start": 6,
+                "shift_end": 12,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 13,
+                "shift_end": 16,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 20,
+                "shift_end": 22,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 0,
+                "shift_end": 5,
+                "crew": null
+            }
+        },
+        {
+            "id": "B80",
+            "morning": {
+                "shift_start": 7,
+                "shift_end": 11,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 14,
+                "shift_end": 18,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 21,
+                "shift_end": 23,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 3,
+                "shift_end": 6,
+                "crew": null
+            }
+        },
+        {
+            "id": "B81",
+            "morning": {
+                "shift_start": 7,
+                "shift_end": 11,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 12,
+                "shift_end": 17,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 18,
+                "shift_end": 24,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 0,
+                "shift_end": 4,
+                "crew": null
+            }
+        },
+        {
+            "id": "B82",
+            "morning": {
+                "shift_start": 7,
+                "shift_end": 12,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 12,
+                "shift_end": 18,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 18,
+                "shift_end": 23,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 3,
+                "shift_end": 6,
+                "crew": null
+            }
+        },
+        {
+            "id": "B83",
+            "morning": {
+                "shift_start": 8,
+                "shift_end": 11,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 12,
+                "shift_end": 17,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 18,
+                "shift_end": 23,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 1,
+                "shift_end": 5,
+                "crew": null
+            }
+        },
+        {
+            "id": "B84",
+            "morning": {
+                "shift_start": 6,
+                "shift_end": 10,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 12,
+                "shift_end": 16,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 19,
+                "shift_end": 23,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 3,
+                "shift_end": 4,
+                "crew": null
+            }
+        },
+        {
+            "id": "B85",
+            "morning": {
+                "shift_start": 7,
+                "shift_end": 11,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 12,
+                "shift_end": 16,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 18,
+                "shift_end": 22,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 0,
+                "shift_end": 6,
+                "crew": null
+            }
+        },
+        {
+            "id": "B86",
+            "morning": {
+                "shift_start": 8,
+                "shift_end": 11,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 14,
+                "shift_end": 17,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 21,
+                "shift_end": 23,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 1,
+                "shift_end": 6,
+                "crew": null
+            }
+        },
+        {
+            "id": "B87",
+            "morning": {
+                "shift_start": 9,
+                "shift_end": 10,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 14,
+                "shift_end": 16,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 21,
+                "shift_end": 24,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 2,
+                "shift_end": 5,
+                "crew": null
+            }
+        },
+        {
+            "id": "B88",
+            "morning": {
+                "shift_start": 7,
+                "shift_end": 12,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 13,
+                "shift_end": 16,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 19,
+                "shift_end": 24,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 1,
+                "shift_end": 6,
+                "crew": null
+            }
+        },
+        {
+            "id": "B89",
+            "morning": {
+                "shift_start": 9,
+                "shift_end": 11,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 12,
+                "shift_end": 17,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 20,
+                "shift_end": 23,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 0,
+                "shift_end": 5,
+                "crew": null
+            }
+        },
+        {
+            "id": "B90",
+            "morning": {
+                "shift_start": 8,
+                "shift_end": 11,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 14,
+                "shift_end": 18,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 18,
+                "shift_end": 23,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 1,
+                "shift_end": 4,
+                "crew": null
+            }
+        },
+        {
+            "id": "B91",
+            "morning": {
+                "shift_start": 7,
+                "shift_end": 12,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 13,
+                "shift_end": 18,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 20,
+                "shift_end": 22,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 0,
+                "shift_end": 6,
+                "crew": null
+            }
+        },
+        {
+            "id": "B92",
+            "morning": {
+                "shift_start": 9,
+                "shift_end": 10,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 12,
+                "shift_end": 16,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 20,
+                "shift_end": 24,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 0,
+                "shift_end": 5,
+                "crew": null
+            }
+        },
+        {
+            "id": "B93",
+            "morning": {
+                "shift_start": 8,
+                "shift_end": 11,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 15,
+                "shift_end": 18,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 19,
+                "shift_end": 22,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 3,
+                "shift_end": 6,
+                "crew": null
+            }
+        },
+        {
+            "id": "B94",
+            "morning": {
+                "shift_start": 9,
+                "shift_end": 12,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 12,
+                "shift_end": 16,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 20,
+                "shift_end": 23,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 0,
+                "shift_end": 5,
+                "crew": null
+            }
+        },
+        {
+            "id": "B95",
+            "morning": {
+                "shift_start": 8,
+                "shift_end": 12,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 15,
+                "shift_end": 18,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 18,
+                "shift_end": 22,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 1,
+                "shift_end": 4,
+                "crew": null
+            }
+        },
+        {
+            "id": "B96",
+            "morning": {
+                "shift_start": 8,
+                "shift_end": 11,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 15,
+                "shift_end": 17,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 21,
+                "shift_end": 24,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 0,
+                "shift_end": 5,
+                "crew": null
+            }
+        },
+        {
+            "id": "B97",
+            "morning": {
+                "shift_start": 9,
+                "shift_end": 10,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 15,
+                "shift_end": 16,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 18,
+                "shift_end": 22,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 3,
+                "shift_end": 4,
+                "crew": null
+            }
+        },
+        {
+            "id": "B98",
+            "morning": {
+                "shift_start": 9,
+                "shift_end": 12,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 14,
+                "shift_end": 16,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 19,
+                "shift_end": 23,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 0,
+                "shift_end": 4,
+                "crew": null
+            }
+        },
+        {
+            "id": "B99",
+            "morning": {
+                "shift_start": 9,
+                "shift_end": 10,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 13,
+                "shift_end": 17,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 18,
+                "shift_end": 22,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 2,
+                "shift_end": 5,
+                "crew": null
+            }
+        },
+        {
+            "id": "B100",
+            "morning": {
+                "shift_start": 9,
+                "shift_end": 12,
+                "crew": null
+            },
+            "afternoon": {
+                "shift_start": 15,
+                "shift_end": 16,
+                "crew": null
+            },
+            "evening": {
+                "shift_start": 19,
+                "shift_end": 23,
+                "crew": null
+            },
+            "night": {
+                "shift_start": 1,
+                "shift_end": 5,
+                "crew": null
+            }
+        }
+    ]
+}
