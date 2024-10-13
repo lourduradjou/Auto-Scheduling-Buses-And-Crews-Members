@@ -1,0 +1,95 @@
+{
+    "crews": [
+        {
+            "id": 1,
+            "start": null,
+            "end": null,
+            "role": "conductor",
+            "maxWork": 8,
+            "assigned": false
+        },
+        {
+            "id": 2,
+            "start": null,
+            "end": null,
+            "role": "conductor",
+            "maxWork": 8,
+            "assigned": false
+        },
+        {
+            "id": 3,
+            "start": null,
+            "end": null,
+            "role": "driver",
+            "maxWork": 8,
+            "assigned": false
+        },
+        {
+            "id": 4,
+            "start": null,
+            "end": null,
+            "role": "driver",
+            "maxWork": 8,
+            "assigned": false
+        },
+        {
+            "id": 5,
+            "start": null,
+            "end": null,
+            "role": "conductor",
+            "maxWork": 8,
+            "assigned": false
+        },
+        {
+            "id": 6,
+            "start": null,
+            "end": null,
+            "role": "driver",
+            "maxWork": 8,
+            "assigned": false
+        }
+    ],
+    "buses": [
+        {
+            "id": "B1",
+            "route_id": null,
+            "trip_id": null
+        },
+        {
+            "id": "B2",
+            "route_id": null,
+            "trip_id": null
+        },
+        {
+            "id": "B3",
+            "route_id": null,
+            "trip_id": null
+        }
+    ],
+    "trips": [
+        {
+            "route_id": 142,
+            "trip_id": "142_1",
+            "start_time": 7,
+            "end_time": 10,
+            "return_start_time": 10,
+            "return_end_time": 13
+        },
+        {
+            "route_id": 142,
+            "trip_id": "142_2",
+            "start_time": 5,
+            "end_time": 8,
+            "return_start_time": 8,
+            "return_end_time": 11
+        },
+        {
+            "route_id": 142,
+            "trip_id": "142_3",
+            "start_time": 7,
+            "end_time": 8,
+            "return_start_time": 8,
+            "return_end_time": 9
+        }
+    ]
+}
